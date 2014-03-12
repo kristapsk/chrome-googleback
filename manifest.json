@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+
+    "name": "GoogleBack",
+    "description": "Bring back underline links.",
+    "version": "0.1",
+    "content_scripts": [{
+        "matches": [
+            "*://*.google.com/*",
+            "*://*.google.lv/*"
+        ],
+        "css": ["google.css"],
+        "run_at": "document_start"
+    }]
+}

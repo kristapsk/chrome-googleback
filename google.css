@@ -1,3 +1,5 @@
 #res h3.r a {
     text-decoration: underline !important;
+    font: arial,sans-serif;
+    font-size: 16px !important;
 }

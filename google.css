@@ -1,3 +1,21 @@
 #res h3.r a {
-    text-decoration: underline !important;
+	text-decoration: underline !important;
+	font: arial,sans-serif;
+	font-size: 16px !important;
 }
+
+/*
+Stuff used by this guy, probably totally useless.
+
+Old Google Underline for Links
+Owner/Creator: Isaac Potter
+email: Flipgage@gmail.com
+
+.r ._mu, .r .ict {
+	text-decoration: underline;
+}
+
+.tl, _Hb, .irg-title, .irg-footer, .speel, .spell i, #ofr a, .spell_orig, .nrg-footer span, .nrg-title, ._aw {
+	text-decoration: underline;
+}
+*/

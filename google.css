@@ -1,4 +1,4 @@
-#res h3.r a {
+#res h3.r a, li.ads-ad h3 a {
     text-decoration: underline !important;
     font: arial,sans-serif;
     font-size: 16px !important;
